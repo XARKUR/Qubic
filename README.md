@@ -1,2 +1,2 @@
 # Qubic-Node
-Simply run Qubic node.
+Simple run Qubic node.
