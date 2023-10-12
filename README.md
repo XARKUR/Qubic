@@ -113,4 +113,4 @@ After turning on Network Stack, restart the computer and select USB boot.
 
 ![14.png](https://github.com/XARKUR/Qubic-Node/blob/main/img/14.png?raw=true)
 
-When you see this screen, congratulations, you successfully ran Qubic Node!
+When you see this screen, congratulations, you successfully run the Qubic Node!
