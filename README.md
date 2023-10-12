@@ -12,7 +12,7 @@ The prerequisite for becoming a Computor is to run a Qubic node and obtain enoug
 
 If you don't know how to run a node yet, you can check out the information below.
 
-> [https://github.com/XARKUR/Qubic-Node/blob/main/About Qubic.md](https://github.com/XARKUR/Qubic-Node/blob/main/About Qubic.md)
+> [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md)
 
 
 
@@ -28,7 +28,7 @@ Qubic.li offers a client that can be used to mine Qus. This software is user-fri
 
 If you don’t understand the official instructions, here is a simple explanation.
 
-> [https://github.com/XARKUR/Qubic-Node/blob/main/Qubic-Mining.md](https://github.com/XARKUR/Qubic-Node/blob/main/Qubic-Mining.md)
+> [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md)
 
 ***
 
@@ -40,7 +40,7 @@ The prerequisite for using AlienPool is that you must run at least one node, bec
 
 If you don't know how to run a node yet, you can check out the information below.
 
-> [Qubic Node - Simple run Qubic node.](https://github.com/XARKUR/Qubic-Node/blob/main/About Qubic.md)
+> [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md)
 
 The latest version of AlienPool can be found in the Discord [#alienpool](https://discord.com/channels/768887649540243497/1090967907867054081) channel.
 
