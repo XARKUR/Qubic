@@ -18,7 +18,7 @@ To run a Qubic node, you need the following parts:
 
 ![1.png](https://github.com/XARKUR/Qubic-Node/blob/main/img/1.png?raw=true)
 
-***
+**` `**
 
 ### 2.Download the file and modify the configuration
 
@@ -28,7 +28,7 @@ To run a Qubic node, you need the following parts:
 
 1.Unzip the downloaded file and use VS Studio to open the `Qubic.vcxproj` file in the folder.
 
-***
+**` `**
 
 ![3.png](https://github.com/XARKUR/Qubic-Node/blob/main/img/3.png?raw=true)
 
@@ -36,7 +36,7 @@ To run a Qubic node, you need the following parts:
 
 > For the IPs of knownPublicPeers, you can go to https://app.qubic.li/network/live to select IPs with good health conditions.
 
-***
+**` `**
 
 ### 3.(Optional) Skip CPU health check
 
@@ -44,7 +44,7 @@ To run a Qubic node, you need the following parts:
 
 If your CPU performance is insufficient or the core cannot be correctly identified and is stuck at `At least 4 healthy enabled processors are required!`, then you can delete the code selected in the picture.
 
-***
+**` `**
 
 ### 4.Compile Qubic.EFI
 
@@ -52,7 +52,7 @@ If your CPU performance is insufficient or the core cannot be correctly identifi
 
 After completing the modification, select Release and press `Shift + Ctrl + B` to compile.
 
-***
+**` `**
 
 ### 5.Create USB disk EFI file
 
@@ -60,7 +60,7 @@ After completing the modification, select Release and press `Shift + Ctrl + B` t
 
 1.Create a new folder and extract `qubic-initial-disk.zip` from the file you downloaded earlier.
 
-***
+**` `**
 
 ![7.png](https://github.com/XARKUR/Qubic-Node/blob/main/img/7.png?raw=true)
 
@@ -68,13 +68,13 @@ After completing the modification, select Release and press `Shift + Ctrl + B` t
 
 2.Place the generated Qubic.efi file in the boot directory.
 
-***
+**` `**
 
 ![9.png](https://github.com/XARKUR/Qubic-Node/blob/main/img/9.png?raw=true)
 
 3.Go to the Qubic Discord [#network](https://discord.com/channels/768887649540243497/768890555564163092) channel to get the current epoch file
 
-***
+**` `**
 
 ![10.png](https://github.com/XARKUR/Qubic-Node/blob/main/img/10.png?raw=true)
 
@@ -93,7 +93,7 @@ The complete file directory should look like the picture.
 /efi/boot/Qubic.efi
 ```
 
-***
+**` `**
 
 ![11.png](https://github.com/XARKUR/Qubic-Node/blob/main/img/11.png?raw=true)
 
@@ -101,7 +101,7 @@ The complete file directory should look like the picture.
 
 4.Format the Qubic Boot USB disk as FAT32 with label QUBIC and copy the files of the EFI folder to the USB disk.
 
-***
+**` `**
 
 ### 6.Go to BIOS and enable `Network Stack`
 
@@ -109,7 +109,7 @@ The complete file directory should look like the picture.
 
 After turning on Network Stack, restart the computer and select USB boot.
 
-***
+**` `**
 
 ![14.png](https://github.com/XARKUR/Qubic-Node/blob/main/img/14.png?raw=true)
 
