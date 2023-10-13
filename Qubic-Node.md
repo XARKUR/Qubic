@@ -12,6 +12,8 @@ To run a Qubic node, you need the following parts:
 4. An USB Stick or SSD/HD attached to the Computer via USB
 5. An UEFI Bios
 
+## BM
+
 ### 1.Install VS Studio and configure the environment
 
 > [visualstudio.microsoft.com](https://visualstudio.microsoft.com/)
@@ -114,3 +116,94 @@ After turning on Network Stack, restart the computer and select USB boot.
 ![14.png](https://github.com/XARKUR/Qubic/blob/main/img/14.png?raw=true)
 
 When you see this screen, congratulations, you successfully ran Qubic Node!
+
+## VirtualBox VM
+
+### 1.Installing Virtual Box
+
+![25.png](https://github.com/XARKUR/Qubic/blob/main/img/25.png?raw=true)
+
+> [Download_Old_Builds_6_1 – Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Download_Old_Builds_6_1)
+
+Personally, I prefer version 6.1
+
+There is nothing extra to note about the installation process, other than which folder you want to install it in.
+
+
+
+### 2.Preparing the boot disk
+
+![36.png](https://github.com/XARKUR/Qubic/blob/main/img/36.png?raw=true)
+
+1.`Win + S` Search and open Computer Management
+
+
+
+![37.png](https://github.com/XARKUR/Qubic/blob/main/img/37.png?raw=true)
+
+You need to click on a disk to create a VHD.
+
+![39.png](https://github.com/XARKUR/Qubic/blob/main/img/39.png?raw=true)
+
+![40.png](https://github.com/XARKUR/Qubic/blob/main/img/40.png?raw=true)
+
+![41.png](https://github.com/XARKUR/Qubic/blob/main/img/41.png?raw=true)
+
+![42.png](https://github.com/XARKUR/Qubic/blob/main/img/42.png?raw=true)
+
+![43.png](https://github.com/XARKUR/Qubic/blob/main/img/43.png?raw=true)
+
+2.Create VHD and Disk
+
+The parts that are not displayed directly default to the next step.
+
+
+
+![44.png](https://github.com/XARKUR/Qubic/blob/main/img/44.png?raw=true)
+
+3.Copy the EFI files to the new disk and Eject it
+
+> **If you don't know how to create an EFI file, please check here: [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md#prerequisites](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md#prerequisites)**
+
+
+
+### 3.Virtual Box configuration
+
+![26.png](https://github.com/XARKUR/Qubic/blob/main/img/26.png?raw=true)
+
+![27.png](https://github.com/XARKUR/Qubic/blob/main/img/27.png?raw=true)
+
+![28.png](https://github.com/XARKUR/Qubic/blob/main/img/28.png?raw=true)
+
+![29.png](https://github.com/XARKUR/Qubic/blob/main/img/29.png?raw=true)
+
+![30.png](https://github.com/XARKUR/Qubic/blob/main/img/30.png?raw=true)
+
+1.Create or Add new Virtual Machine
+
+
+
+![31.png](https://github.com/XARKUR/Qubic/blob/main/img/31.png?raw=true)
+
+![32.png](https://github.com/XARKUR/Qubic/blob/main/img/32.png?raw=true)
+
+![33.png](https://github.com/XARKUR/Qubic/blob/main/img/33.png?raw=true)
+
+![34.png](https://github.com/XARKUR/Qubic/blob/main/img/34.png?raw=true)
+
+![35.png](https://github.com/XARKUR/Qubic/blob/main/img/35.png?raw=true)
+
+![45.png](https://github.com/XARKUR/Qubic/blob/main/img/45.png?raw=true)
+
+![46.png](https://github.com/XARKUR/Qubic/blob/main/img/46.png?raw=true)
+
+2.Virtual Machine Setting
+
+Least 128 RAM and 8 Cores
+
+
+
+![47.png](https://github.com/XARKUR/Qubic/blob/main/img/47.png?raw=true)
+
+GO!
+
