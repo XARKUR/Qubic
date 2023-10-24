@@ -16,7 +16,7 @@ Qubic 最多允许 **676** 台计算者，成为计算者的前提是运行 Qubi
 
 如果你不知道如何运行节点，可以查看下面的链接。
 
-> [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md)
+> [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node-ZH.md)
 
 ****
 
@@ -34,7 +34,7 @@ Qubic.li 提供了一个可用于挖掘 QUBIC 的客户端。 该软件用户友
 
 如果你不理解官方说明，这里有一个 Windows 的简单教程。
 
-> [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md)  
+> [https://github.com/XARKUR/Qubic/blob/main/Qubic-Mining]([https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Mining-ZH.md#windows))  
 
 
 
@@ -46,7 +46,7 @@ Qubic.li 提供了一个可用于挖掘 QUBIC 的客户端。 该软件用户友
 
 如果您还不知道如何运行节点，可以查看以下信息。
 
-> [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md)
+> [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node-ZH.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node-ZH.md)
 
 最新版本的 AlienPool 可以在 Discord [#alienpool](https://discord.com/channels/768887649540243497/1090967907867054081) 频道中找到。
 
