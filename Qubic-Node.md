@@ -32,7 +32,7 @@ To run a Qubic node, you need the following parts:
 
 
 
-2.Select the qubic.cpp file and modify the Private Settings. 
+2.Select the `qubic.cpp` file and modify the Private Settings. 
 
 > For the IPs of knownPublicPeers, you can go to https://app.qubic.li/network/live to select IPs with good health conditions.
 
