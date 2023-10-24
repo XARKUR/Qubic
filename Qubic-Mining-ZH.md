@@ -61,7 +61,7 @@
 - accessToken（从 Pool Mining 页面获取）
 - alias（矿工名）
 
-> 请注意 **payoutId 和 accessToken 不能同时填写**。 您只能选择填写其中一项。 建议填写accessToken，因为我们之前在 Pool Mining 页面设置过钱包地址，两者都可以接收奖励。
+> 请注意 **payoutId 和 accessToken 不能同时填写**。 您只能选择填写其中一项。 建议填写 accessToken ，因为我们之前在 Pool Mining 页面设置过钱包地址，两者都可以接收奖励。
 
 ![21.png](https://github.com/XARKUR/Qubic/blob/main/img/21.png?raw=true)
 
