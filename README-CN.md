@@ -18,7 +18,7 @@ Qubic 最多允许 **676** 台计算者，成为计算者的前提是运行 Qubi
 
 > [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md)
 
-
+****
 
 ## 矿工软件
 
@@ -34,7 +34,7 @@ Qubic.li 提供了一个可用于挖掘 QUBIC 的客户端。 该软件用户友
 
 > [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md)
 
-***
+
 
 #### AlienPool Miner
 
