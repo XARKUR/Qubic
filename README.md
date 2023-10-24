@@ -8,7 +8,7 @@ Simply help everyone quickly understand the Qubic reward method.
 
 ## Node and Computor
 
-Qubic allows up to **676** calculators. The prerequisite for becoming a calculator is to run a Qubic node and obtain enough scores and rank among the top **676**. You will be listed as a candidate in the first week. If you are qualified to become a calculator, you will receive benefits in the next week, with a maximum of **1.4** billion QUBIC per epoch (week).
+Qubic allows up to **676** Computors. The prerequisite for becoming a Computor is to run a Qubic node and obtain enough scores and rank among the top **676**. You will be listed as a candidate in the first week. If you are qualified to become a Computor, you will receive benefits in the next week, with a maximum of **1.4** billion QUBIC per epoch (week).
 
 > Related instructions:[https://docs.qubic.world/computors/challenges](https://docs.qubic.world/computors/challenges)
 
