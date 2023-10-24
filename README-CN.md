@@ -1,6 +1,6 @@
 # Qubic
 
-[English](https://github.com/XARKUR/Qubic/blob/main/README.md) | 中文
+[English](https://github.com/XARKUR/Qubic/blob/main/README.md) | [中文](https://github.com/XARKUR/Qubic/blob/main/README-CN.md)
 
 简单帮助大家快速了解Qubic。
 
@@ -8,7 +8,7 @@
 
 ## 节点和计算者
 
-Qubic 最多允许 **676** 台计算者，成为计算者的前提是运行 Qubic 节点并且获得足够的分数和排名在前 **676** 名，第一周你将会被列为候选人，当你有资格成为计算者的话，那么你将会在下一周获得收益。
+Qubic 最多允许 **676** 台计算者，成为计算者的前提是运行 Qubic 节点并且获得足够的分数和排名在前 **676** 名，第一周你将会被列为候选人，当你有资格成为计算者的话，那么你将会在下一周获得收益，每个纪元（一周）最多可以获得 **14** 亿 QUBIC。
 
 > 相关介绍: [https://docs.qubic.world/computors/challenges](https://docs.qubic.world/computors/challenges)
 
@@ -26,7 +26,7 @@ Qubic 最多允许 **676** 台计算者，成为计算者的前提是运行 Qubi
 
 > 官方库 : [qubic-li/client (github.com)](https://github.com/qubic-li/client)
 
-Qubic.li 提供了一个可用于挖掘 Qubic 的客户端。 该软件用户友好，有 Windows 端和 Linux 端，对于刚接触挖矿的人来说是一个不错的选择。 它提供了一些基本功能，例如管理挖矿活动、监控性能以及连接 Qubic 网络。
+Qubic.li 提供了一个可用于挖掘 QUBIC 的客户端。 该软件用户友好，有 Windows 端和 Linux 端，对于刚接触挖矿的人来说是一个不错的选择。 它提供了一些基本功能，例如管理挖矿活动、监控性能以及连接 Qubic 网络。
 
 
 
