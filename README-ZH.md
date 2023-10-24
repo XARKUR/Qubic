@@ -34,7 +34,7 @@ Qubic.li 提供了一个可用于挖掘 QUBIC 的客户端。 该软件用户友
 
 如果你不理解官方说明，这里有一个 Windows 的简单教程。
 
-> [https://github.com/XARKUR/Qubic/blob/main/Qubic-Mining-ZH]([https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Mining-ZH.md#windows))  
+> [https://github.com/XARKUR/Qubic/blob/main/Qubic-Mining-ZH.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Mining-ZH.md#windows)  
 
 
 
