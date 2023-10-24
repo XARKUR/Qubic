@@ -1,6 +1,6 @@
 # Qubic
 
-[English](https://github.com/XARKUR/Qubic/blob/main/README.md) | [中文](https://github.com/XARKUR/Qubic/blob/main/README-CN.md)
+[English](https://github.com/XARKUR/Qubic/blob/main/README.md) | [中文](https://github.com/XARKUR/Qubic/blob/main/README-ZH.md)
 
 简单帮助大家快速了解 Qubic 收益方式。
 
