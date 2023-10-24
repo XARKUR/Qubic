@@ -50,7 +50,7 @@
 
 1.You need to download the latest version of Qubic-Cli Miner
 
-> Qubic-Cli Official library: [qubic-li/client]([qubic-li/client (github.com)](https://github.com/qubic-li/client#download))
+> Qubic-Cli Official library: [qubic-li/client](https://github.com/qubic-li/client#download)
 
 
 
