@@ -48,9 +48,9 @@
 
 #### Windows
 
-1.前往官方库下载最新版 Qubic Cli Miner
+1.前往官方库下载最新版 `Qubic-Cli`
 
-> Qubic Cl 官方库：[qubic-li/client]([qubic-li/client (github.com)](https://github.com/qubic-li/client#download))
+> Qubic-Cli 官方库：[qubic-li/client](https://github.com/qubic-li/client#download)
 
 
 
