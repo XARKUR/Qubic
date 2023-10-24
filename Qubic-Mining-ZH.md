@@ -10,7 +10,7 @@
 
 > Qubic APP网站：[QUBIC Portal](https://app.qubic.li/sign-up)
 
-2.点击侧边栏进入 Pool Mining 页面，在页面下方订阅`qubic.li Fixed Reward` 矿池。
+2.点击侧边栏进入 Pool Mining 页面，在页面下方订阅 `qubic.li Fixed Reward` 矿池。
 
 ![15.png](https://github.com/XARKUR/Qubic/blob/main/img/15.png?raw=true)
 
