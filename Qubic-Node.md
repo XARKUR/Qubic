@@ -16,7 +16,7 @@ To run a Qubic node, you need the following parts:
 
 ### 1.Install VS Studio and configure the environment
 
-> [visualstudio.microsoft.com](https://visualstudio.microsoft.com/)
+> Official link: [visualstudio.microsoft.com](https://visualstudio.microsoft.com/)
 
 ![1.png](https://github.com/XARKUR/Qubic/blob/main/img/1.png?raw=true)
 
