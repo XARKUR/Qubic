@@ -22,6 +22,8 @@ Qubic 最多允许 **676** 台计算者，成为计算者的前提是运行 Qubi
 
 ## 矿工软件
 
+矿工收益与 CPU 性能有关，目前使用最多的高性能 CPU 是7950X，
+
 #### Qubic-li Miner
 
 > 官方库 : [qubic-li/client (github.com)](https://github.com/qubic-li/client)
@@ -32,7 +34,7 @@ Qubic.li 提供了一个可用于挖掘 QUBIC 的客户端。 该软件用户友
 
 如果你不理解官方说明，这里有一个 Windows 的简单教程。
 
-> [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md)
+> [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md)  
 
 
 
