@@ -24,63 +24,65 @@ To run a Qubic node, you need the following parts:
 
 ### 2.Download the file and modify the configuration
 
-> [https://github.com/qubic-li/qubic](https://github.com/qubic-li/qubic)
-
-![2.png](https://github.com/XARKUR/Qubic/blob/main/img/2.png?raw=true)
+> Qubic official library: [https://github.com/qubic-li/qubic](https://github.com/qubic-li/qubic)
 
 1.Unzip the downloaded file and use VS Studio to open the `Qubic.vcxproj` file in the folder.
 
+![2.png](https://github.com/XARKUR/Qubic/blob/main/img/2.png?raw=true)
 
 
-![3.png](https://github.com/XARKUR/Qubic/blob/main/img/3.png?raw=true)
 
 2.Select the qubic.cpp file and modify the Private Settings. 
 
 > For the IPs of knownPublicPeers, you can go to https://app.qubic.li/network/live to select IPs with good health conditions.
 
+![3.png](https://github.com/XARKUR/Qubic/blob/main/img/3.png?raw=true)
+
 ***
 
 ### 3.(Optional) Skip CPU health check
 
-![4.png](https://github.com/XARKUR/Qubic/blob/main/img/4.png?raw=true)
-
 If your CPU performance is insufficient or the core cannot be correctly identified and is stuck at `At least 4 healthy enabled processors are required!`, then you can delete the code selected in the picture.
+
+![4.png](https://github.com/XARKUR/Qubic/blob/main/img/4.png?raw=true)
 
 ***
 
 ### 4.Compile Qubic.EFI
 
-![5.png](https://github.com/XARKUR/Qubic/blob/main/img/5.png?raw=true)
-
 After completing the modification, select Release and press `Shift + Ctrl + B` to compile.
+
+![5.png](https://github.com/XARKUR/Qubic/blob/main/img/5.png?raw=true)
 
 ***
 
 ### 5.Create USB disk EFI file
 
-![6.png](https://github.com/XARKUR/Qubic/blob/main/img/6.png?raw=true)
-
 1.Create a new folder and extract `qubic-initial-disk.zip` from the file you downloaded earlier.
 
+![6.png](https://github.com/XARKUR/Qubic/blob/main/img/6.png?raw=true)
 
+
+
+2.Place the generated Qubic.efi file in the boot directory.
 
 ![7.png](https://github.com/XARKUR/Qubic/blob/main/img/7.png?raw=true)
 
 ![8.png](https://github.com/XARKUR/Qubic/blob/main/img/8.png?raw=true)
 
-2.Place the generated Qubic.efi file in the boot directory.
 
-
-
-![9.png](https://github.com/XARKUR/Qubic/blob/main/img/9.png?raw=true)
 
 3.Go to the Qubic Discord [#network](https://discord.com/channels/768887649540243497/768890555564163092) channel to get the current epoch file
 
+![9.png](https://github.com/XARKUR/Qubic/blob/main/img/9.png?raw=true)
 
+
+
+The complete file directory should look like the picture.
 
 ![10.png](https://github.com/XARKUR/Qubic/blob/main/img/10.png?raw=true)
 
-The complete file directory should look like the picture.
+
 
 ```
 /contract.000.XXX
@@ -97,11 +99,11 @@ The complete file directory should look like the picture.
 
 
 
+4.Format the Qubic Boot USB disk as FAT32 with label QUBIC and copy the files of the EFI folder to the USB disk.
+
 ![11.png](https://github.com/XARKUR/Qubic/blob/main/img/11.png?raw=true)
 
 ![12.png](https://github.com/XARKUR/Qubic/blob/main/img/12.png?raw=true)
-
-4.Format the Qubic Boot USB disk as FAT32 with label QUBIC and copy the files of the EFI folder to the USB disk.
 
 ***
 
@@ -133,15 +135,19 @@ There is nothing extra to note about the installation process, other than which 
 
 ### 2.Preparing the boot disk
 
-![36.png](https://github.com/XARKUR/Qubic/blob/main/img/36.png?raw=true)
-
 1.`Win + S` Search and open Computer Management
 
+![36.png](https://github.com/XARKUR/Qubic/blob/main/img/36.png?raw=true)
 
+
+
+2.Create VHD and Disk
+
+You need to click on a disk to create a VHD.
 
 ![37.png](https://github.com/XARKUR/Qubic/blob/main/img/37.png?raw=true)
 
-You need to click on a disk to create a VHD.
+The complete file directory should look like the picture.
 
 ![39.png](https://github.com/XARKUR/Qubic/blob/main/img/39.png?raw=true)
 
@@ -153,21 +159,19 @@ You need to click on a disk to create a VHD.
 
 ![43.png](https://github.com/XARKUR/Qubic/blob/main/img/43.png?raw=true)
 
-2.Create VHD and Disk
 
-The parts that are not displayed directly default to the next step.
-
-
-
-![44.png](https://github.com/XARKUR/Qubic/blob/main/img/44.png?raw=true)
 
 3.Copy the EFI files to the new disk and Eject it
 
 > **If you don't know how to create an EFI file, please check here: [https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md#prerequisites](https://github.com/XARKUR/Qubic/blob/main/Qubic-Node.md#prerequisites)**
 
+![44.png](https://github.com/XARKUR/Qubic/blob/main/img/44.png?raw=true)
+
 
 
 ### 3.Virtual Box configuration
+
+1.Create or Add new Virtual Machine
 
 ![26.png](https://github.com/XARKUR/Qubic/blob/main/img/26.png?raw=true)
 
@@ -179,9 +183,11 @@ The parts that are not displayed directly default to the next step.
 
 ![30.png](https://github.com/XARKUR/Qubic/blob/main/img/30.png?raw=true)
 
-1.Create or Add new Virtual Machine
 
 
+2.Virtual Machine Setting
+
+Least 128 RAM and 8 Cores CPU
 
 ![31.png](https://github.com/XARKUR/Qubic/blob/main/img/31.png?raw=true)
 
@@ -197,13 +203,8 @@ The parts that are not displayed directly default to the next step.
 
 ![46.png](https://github.com/XARKUR/Qubic/blob/main/img/46.png?raw=true)
 
-2.Virtual Machine Setting
-
-Least 128 RAM and 8 Cores
 
 
+GO! You successfully ran Qubic Node!
 
 ![47.png](https://github.com/XARKUR/Qubic/blob/main/img/47.png?raw=true)
-
-GO!
-
