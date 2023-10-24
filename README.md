@@ -1,6 +1,6 @@
 # Qubic
 
-[English](https://github.com/XARKUR/Qubic/blob/main/README.md) | [中文](https://github.com/XARKUR/Qubic/blob/main/README-CN.md)
+[English](https://github.com/XARKUR/Qubic/blob/main/README.md) | [中文](https://github.com/XARKUR/Qubic/blob/main/README-ZH.md)
 
 Simply help everyone quickly understand the Qubic reward method.
 
