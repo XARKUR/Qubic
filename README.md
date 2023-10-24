@@ -36,7 +36,7 @@ If you don’t understand the official instructions, here is a simple explanatio
 
 #### AlienPool Miner
 
-According to my understanding, AlienPool is actually more like a tool to improve the score of Qubic nodes and help your nodes become Computors.
+According to my understanding, AlienPool is actually more like a tool to improve the score of Qubic nodes and help your nodes become Computor.
 
 The prerequisite for using AlienPool is that you must run at least one node, because the Solutions mined by AlienPool will be used to improve the score of the node.
 
