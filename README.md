@@ -1,12 +1,14 @@
 # Qubic
 
-Simply help everyone participate in Qubic.
+[English](https://github.com/XARKUR/Qubic/blob/main/README.md) | [中文](https://github.com/XARKUR/Qubic/blob/main/README-CN.md)
+
+Simply help everyone quickly understand the Qubic reward method.
 
 
 
 ## Node and Computor
 
-The prerequisite for becoming a Computor is to run a Qubic node and obtain enough points. It takes a week to obtain Computor status. Only Computors can receive rewards.
+Qubic allows up to **676** calculators. The prerequisite for becoming a calculator is to run a Qubic node and obtain enough scores and rank among the top **676**. You will be listed as a candidate in the first week. If you are qualified to become a calculator, you will receive benefits in the next week, with a maximum of **1.4** billion QUBIC per epoch (week).
 
 > Related instructions:[https://docs.qubic.world/computors/challenges](https://docs.qubic.world/computors/challenges)
 
@@ -22,7 +24,7 @@ If you don't know how to run a node yet, you can check out the information below
 
 > Official library : [qubic-li/client (github.com)](https://github.com/qubic-li/client)
 
-Qubic.li offers a client that can be used to mine Qus. This software is user-friendly, making it a good choice for those new to mining. It provides essential features like managing your mining activity, monitoring performance, and connecting with the Qubic network.
+Qubic.li offers a client that can be used to mine QUBIC. This software is user-friendly, has Windows and Linux versions, and supports Docker. making it a good choice for those new to mining. It provides essential features like managing your mining activity, monitoring performance, and connecting with the Qubic network.
 
 
 
