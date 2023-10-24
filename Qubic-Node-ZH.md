@@ -137,15 +137,15 @@
 
 
 
+2.创建 VHD 和磁盘
+
 需要单击一个空闲的盘来创建 VHD。
 
 ![37.png](https://github.com/XARKUR/Qubic/blob/main/img/37.png?raw=true)
 
 
 
-2.创建 VHD 和磁盘
-
-没有直接图示的部分默认点击下一步。
+没有图示的部分默认点击下一步。
 
 ![39.png](https://github.com/XARKUR/Qubic/blob/main/img/39.png?raw=true)
 
