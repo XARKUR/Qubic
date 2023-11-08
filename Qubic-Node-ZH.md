@@ -24,7 +24,7 @@
 
 ### 2.下载文件并修改配置
 
-> Qubic 官方库：[https://github.com/qubic-li/qubic](https://github.com/qubic-li/qubic)
+> Qubic 官方库：[https://github.com/qubic-network/core](https://github.com/qubic-network/core)
 
 1.解压下载的文件并使用 VS Studio 打开文件夹中的 `Qubic.vcxproj` 文件。
 
