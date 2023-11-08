@@ -24,7 +24,7 @@ To run a Qubic node, you need the following parts:
 
 ### 2.Download the file and modify the configuration
 
-> Qubic official library: [https://github.com/qubic-li/qubic](https://github.com/qubic-li/qubic)
+> Qubic official library: [https://github.com/qubic-network/core](https://github.com/qubic-network/core)
 
 1.Unzip the downloaded file and use VS Studio to open the `Qubic.vcxproj` file in the folder.
 
