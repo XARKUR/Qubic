@@ -22,8 +22,7 @@ get_distributor_id() {
 
 branch="main"
 scripts_folder_name="scripts"
-package_installer_file_postfix="-package-installer.sh"
-package_installer_raw_file_url="https://raw.githubusercontent.com/Qubic-World/qubicli-miner-installer/$branch/$scripts_folder_name/$(get_distributor_id)$package_installer_file_postfix"
+package_installer_raw_file_url="https://github.com/Qubic-World/qubicli-miner-installer/blob/main/scripts/ubuntu-package-installer.sh"
 
 # Installing the required packages depending on the Distributor ID
 
