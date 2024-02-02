@@ -79,3 +79,5 @@ if [ "$3" == "avx2" ]; then
      jq '.Settings += {useAvx2:true}' /q/appsettings.json > out.tmp && cat out.tmp > /q/appsettings.json && rm out.tmp
      service qli start
 fi
+
+tail -f /var/log/qli.log
